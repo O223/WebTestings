@@ -1,0 +1,29 @@
+html {
+    font-size: 10px; 
+    font-family: "Open Sans", odibee_sans;
+    background-color: #9f0062;
+  }
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ffc400;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;    
+    color: #ff0000;
+    text-shadow: 3px 3px 1px black;    
+  }
+p {
+    font-size: 16px;    
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+img {
+    display: block;
+    margin: 0 auto;
+  } 
